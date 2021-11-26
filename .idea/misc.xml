@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sushkof/app/src/main/res/drawable/menu.xml" value="0.3828125" />
+        <entry key="..\:/Sushkof/app/src/main/res/layout/activity_authorization.xml" value="0.33" />
+        <entry key="..\:/Sushkof/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Sushkof/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Sushkof/app/src/main/res/layout/activity_onboardin1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Sushkof/app/src/main/res/layout/activity_onboardin2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Sushkof/app/src/main/res/layout/activity_onboardin3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Sushkof/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2890625" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/drawable/edit_txt.xml" value="0.2890625" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/drawable/menu.xml" value="0.2890625" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/drawable/rad.xml" value="0.2890625" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/layout/activity_authorization.xml" value="0.33" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/layout/activity_onboardin2.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/layout/activity_onboardin3.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/layout/activity_registration.xml" value="0.33" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/Sushkof/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2324074074074074" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/drawable/image.xml" value="0.2890625" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/drawable/rad.xml" value="0.2890625" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/drawable/rad_white.xml" value="0.2890625" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/layout/activity_authorization.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/layout/activity_menu.xml" value="0.16" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/layout/activity_onboardin3.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/layout/activity_registration.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/layout/fragment_dashboard.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/layout/fragment_notifications.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/stepa/Desktop/Sushkof/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
